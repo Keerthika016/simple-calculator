@@ -1,5 +1,9 @@
 
-
+**keerthika A**  
+**Company**: CODETECH IT SOLUTIONS  
+**Id**:CT08FXO
+**Domain**: JAVA PROGRAMMING 
+**Duration**: 25TH DEC 2024 to 25TH JAN 2025
 
 
 # Simple Calculator in Java
